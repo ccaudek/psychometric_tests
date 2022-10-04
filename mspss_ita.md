@@ -1,0 +1,13 @@
+> names(mspss)
+ [1] "C'è una particolare persona che mi è vicina quando ho bisogno"                         
+ [2] "C'è una particolare persona con cui posso condividere le mie gioie e i miei dispiaceri"
+ [3] "La mia famiglia cerca veramente di aiutarmi"                                           
+ [4] "Ricevo dalla mia famiglia l'aiuto morale e il sostegno di cui ho bisogno"              
+ [5] "Ho una particolare persona che è un'autentica fonte di conforto per me"                
+ [6] "I miei amici/amiche cercano veramente di aiutarmi"                                     
+ [7] "Posso contare sui miei amici/amiche quando le cose vanno male"                         
+ [8] "Posso parlare dei miei problemi nella mia famiglia"                                    
+ [9] "Ho amici/amiche con i quali posso condividere le mie gioie e i miei dispiaceri"        
+[10] "C'è una particolare persona nella mia vita che si interessa dei miei sentimenti"       
+[11] "La mia famiglia è disponibile ad aiutarmi quando devo prendere decisioni"              
+[12] "Posso parlare dei miei problemi con i miei amici/amiche"       
